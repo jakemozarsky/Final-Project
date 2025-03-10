@@ -11,6 +11,11 @@ font-size: 1.5em;
 color: black;
 }
 
+#video{
+    width: 90%;
+    height: auto;
+}
+
 /* media query */
 /*phone*/
 @media (orientation: portrait){
@@ -22,6 +27,7 @@ color: black;
     color: black;
     background-color: white;
 }
-.nav-button{
+
+#nav-button{
     margin: auto; 
 }
