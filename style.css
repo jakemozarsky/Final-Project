@@ -30,5 +30,10 @@ color: black;
 
 .nav-button{
     margin: auto;
-  
+    font-size: large; 
+}
+
+.nav-button a{
+    margin: auto;
+    font-size: large; 
 }
