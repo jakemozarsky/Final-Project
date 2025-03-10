@@ -19,8 +19,8 @@ color: black;
 #nav-bar {
     display:flex;
     flex-direction:row;
-    color: black;
-    background-color: darkblue;
+    color: whitesmoke;
+    background-color: blue;
 }
 .nav-button{
     margin: auto; 
