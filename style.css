@@ -1,5 +1,5 @@
 body{
-    background-color: white;
+    background-color: lightskyblue;
 }
 
 /*desktop*/
@@ -15,4 +15,13 @@ color: black;
 /*phone*/
 @media (orientation: portrait){
     #content {width:100%;}
+}
+#nav-bar {
+    display:flex;
+    flex-direction:row;
+    color: black;
+    background-color: darkblue;
+}
+.nav-button{
+    margin: auto; 
 }
