@@ -1,5 +1,5 @@
 body{
-    background-color: blue;
+    background-color: lightskyblue;
 }
 
 /*desktop*/
@@ -8,7 +8,7 @@ width: 75%;
 margin: auto;
 line-height: 1.5em;
 font-size: 1.5em;
-color: white;
+color: black;
 }
 
 .video{
@@ -29,7 +29,7 @@ color: white;
 }
 
 .intro{
-    color:lightskyblue;
+    color:navy;
 }
 
 .writtem2{
