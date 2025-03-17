@@ -1,5 +1,5 @@
 body{
-    background-color: lightskyblue;
+    background-color: blue;
 }
 
 /*desktop*/
@@ -8,7 +8,7 @@ width: 75%;
 margin: auto;
 line-height: 1.5em;
 font-size: 1.5em;
-color: black;
+color: white;
 }
 
 .video{
@@ -26,6 +26,14 @@ color: black;
     flex-direction:row;
     color: black;
     background-color: white;
+}
+
+.intro{
+    color:lightskyblue;
+}
+
+.writtem2{
+    color: black;
 }
 
 .nav-button{
