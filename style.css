@@ -28,8 +28,12 @@ color: black;
     background-color: white;
 }
 
+.headline{
+font-size: 2em;
+}
+
 .intro{
-    color:navy;
+    color:black;
 }
 
 .writtem2{
